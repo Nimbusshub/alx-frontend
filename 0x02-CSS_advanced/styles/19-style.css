@@ -510,7 +510,7 @@ ul.row {
   margin-right: auto;
 }
 
-.footer ul {
+.footer {
   padding: var(--footer-padding);
 }
 
@@ -520,7 +520,7 @@ ul.row {
   color: var(--text-color);
 }
 
-ul.footer {
+.footer ul {
   text-align: right;
 }
 /* navigation */
