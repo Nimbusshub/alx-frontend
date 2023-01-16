@@ -459,8 +459,7 @@ a:active {
 }
 
 .section-footer {
-  padding: var(--section-footer-padding) var(--section-footer-padding)
-    var(--section-footer-padding) var(--section-footer-padding);
+  padding: var(--section-footer-padding);
   text-align: var(--section-footer-align);
 }
 
@@ -485,6 +484,5 @@ a:active {
 }
 
 .footer {
-  padding: var(--footer-padding) var(--footer-padding) var(--footer-padding)
-    var(--footer-padding);
+  padding: var(--footer-padding);
 }
